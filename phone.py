@@ -2,6 +2,7 @@
 
 import os
 import csv
+import django
 def clear():
    if os.name == 'posix':
       _ = os.system('clear')
