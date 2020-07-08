@@ -1,0 +1,9 @@
+print("this is GEDIT")
+
+
+
+
+
+
+
+
