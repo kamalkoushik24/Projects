@@ -3,7 +3,7 @@ int main(void)
 {
 
 
-int n = 0;
+int n = 100;
 printf("%s\n", *&n );
 
 }
