@@ -1,2 +1,2 @@
 for i = 0 range(3):
-    print("hi, just get codings")
+    print("hi, Get good at coding")
