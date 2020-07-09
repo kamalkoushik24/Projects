@@ -3,7 +3,7 @@ int main(void)
 {
 
 
-int n = 7898;
+int n = 0;
 printf("%s\n", *&n );
 
 }
