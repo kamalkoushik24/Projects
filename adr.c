@@ -3,7 +3,7 @@ int main(void)
 {
 
 
-int n = 1000;
+int n = 0
 printf("%s\n", *&n );
 
 }
