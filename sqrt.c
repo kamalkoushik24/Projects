@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-int main()
+int main(void)
 {
 float x,y,result;
 printf("please choose a number to start with: ");
